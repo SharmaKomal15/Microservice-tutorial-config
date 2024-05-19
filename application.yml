@@ -1,3 +1,8 @@
+spring:
+ cloud:
+  name: Config-server
+
+
 eureka:
   instance:
     prefer-ip-address: true
