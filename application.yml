@@ -1,6 +1,6 @@
 spring:
- cloud:
-  name: Config-server
+  application:
+    name: CONFIG-SERVER
 
 
 eureka:
